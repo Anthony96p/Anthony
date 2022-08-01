@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😉, I'm Anthony</h1>
 <h3 align="center">A Bio-informatics student at M2 GENOMICS INFORMATICS AND MATHEMATICS FOR HEALTH AND ENVIRONMENT in Evry.</h3>
 
-- I’m currently learning **bioinformatics and biostatistics s**
+- I’m currently learning **bioinformatics and biostatistics**
 
 <h3 align="left">Languages and Tools i use:</h3>
 
