@@ -13,4 +13,4 @@
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony&count_private=true&include_all_commits=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimen-prog&count-private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony&count-private=true&theme=tokyonight)
