@@ -10,7 +10,7 @@
 
 <h3 align="left">My GitHub stats:</h3>
 
-![Aimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aimen-prog&count_private=true&include_all_commits=true&theme=tokyonight)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony&count_private=true&include_all_commits=true&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimen-prog&count-private=true&theme=tokyonight)
