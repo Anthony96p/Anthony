@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aimen</h1>
-<h3 align="center">A Bio-informatics student at Luminy Marseille.</h3>
+<h1 align="center">Hi 😉, I'm Anthony</h1>
+<h3 align="center">A Bio-informatics student at M2 GENOMICS INFORMATICS AND MATHEMATICS FOR HEALTH AND ENVIRONMENT in Evry.</h3>
 
-- 🌱 I’m currently learning **bioinformatics and machine learning**
+- I’m currently learning **bioinformatics and biostatistics s**
 
 <h3 align="left">Languages and Tools i use:</h3>
 
