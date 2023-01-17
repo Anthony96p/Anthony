@@ -18,7 +18,7 @@
   <a href="https://shiny.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://rstudio-education.github.io/shiny-course/images/shiny.png" alt="shiny" width="38" height="38"/> </a>
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/spyder-ide/spyder/blob/master/spyder/images/spyder.svg" alt="spyder" width="45" height="45"/> </a>
 </p>
-<h3 align="left">My GitHub stats:</h3>
+<h3 align="left">My GitHub stats:</h3> 
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthony96p&count_private=true&include_all_commits=true&theme=tokyonight)
 
